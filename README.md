@@ -12,7 +12,7 @@ Keylogger designed in visual C++ and it is run in the background in stealth mode
 
 1. change path folder to save log and screenshot:
  >const char filePath[] = "/home/pcthuoc/Desktop/server/log/";
-3. build sever
+3. build sever ( server will be used in linux)
 4. buid client 
 
 
